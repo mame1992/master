@@ -1,5 +1,5 @@
 torch==2.4.1+cu118
-torchvision==0.15.2
+torchvision==0.19.1+cu118
 timm==0.9.13 # For swin transformer
 transformers==4.31.0  #For AdamW 
 tensorflow==2.13.0
