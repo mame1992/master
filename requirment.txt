@@ -1,4 +1,4 @@
-torch==2.4.1
+torch==2.4.1+cu118
 torchvision==0.15.2
 timm==0.9.13 # For swin transformer
 transformers==4.31.0  #For AdamW 
